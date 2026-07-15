@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Salut,%20moi%20c'est%20Louis%20%F0%9F%91%8B&fontSize=42&fontColor=f0c987&fontAlignY=35&desc=%C3%89tudiant%20en%20IA%20%26%20Data%20Science%20-%20EPSI%20Montpellier&descSize=20&descAlignY=58&descColor=e8b4b4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Salut%2C%20je%20suis%20Louis%20%F0%9F%91%8B&fontSize=42&fontColor=f0c987&fontAlignY=35&desc=%C3%89tudiant%20en%20IA%20%26%20Data%20Science%20-%20EPSI%20Montpellier&descSize=20&descAlignY=58&descColor=e8b4b4" width="100%"/>
 </div>
 👋 À propos
 
@@ -61,6 +61,6 @@ Nettoyage du dataset OpenAnimaTracks, stratégie de data augmentation, entraîne
 📊 Statistiques GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LouisGardet&show_icons=true&hide_border=true&locale=fr" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisGardet&hide_border=true&layout=compact&locale=fr" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LouisGardet&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisGardet&hide_border=true&layout=compact" width="48%" />
 </div>
